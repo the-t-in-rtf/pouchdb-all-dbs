@@ -1,11 +1,11 @@
 {
-  "name": "pouchdb-all-dbs",
+  "name": "@the-t-in-rtf/pouchdb-all-dbs",
   "version": "1.0.2",
   "description": "PouchDB allDbs plugin",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nolanlawson/pouchdb-all-dbs.git"
+    "url": "git://github.com/the-t-in-rtf/pouchdb-all-dbs.git"
   },
   "keywords": [
     "pouch",
@@ -18,7 +18,7 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nolanlawson/pouchdb-all-dbs/issues"
+    "url": "https://issues.gpii.net/"
   },
   "scripts": {
     "test-node": "TEST_DB=testdb istanbul test ./node_modules/mocha/bin/_mocha test/test.js",
