@@ -1,3 +1,14 @@
+= Note:
+
+This package is forked from [the main pouchdb-all-dbs package](https://github.com/pouchdb-community/pouchdb-all-dbs), and is
+used to maintain the scoped package [@the-t-in-rtf/express-pouchdb](https://www.npmjs.com/package/@the-t-in-rtf/pouchdb-all-dbs).
+
+To publish a new scoped version of this package, use a command like:
+
+```
+publish --access=public
+```
+
 PouchDB allDbs() plugin
 =====
 
